@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!👋+I'm+Mang'era alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mang'era;A+Junior+backend+engineer"; alt="Typing SVG" />
 </div>
 
 <br/>
 
-<h2 align="center">🚀 Backend Engineer in the Making</h2>
+<h2 align="center">🚀 Backend Engineer</h2>
 
 <p align="center">
-  <em>Recent Software Development graduate</em> • Passionate about <strong>scalable systems</strong>, <strong>clean architecture</strong>, and <strong>understanding how things really work</strong>.
+  <em>I'm a recent Software Development graduate</em> • Passionate about building <strong>scalable systems</strong>, <strong>clean architecture</strong>, and <strong>understanding how things really work</strong> through the first principles approach.
 </p>
 
 <div align="center">
@@ -28,11 +29,10 @@
 - 📈 Designing systems that scale horizontally, fail gracefully, and are observable from day one  
 
 ## 🛠️ My Current Tech Playground
-
-```text
-Languages & Core     →  Python • Rust • SQL
-Web & APIs           →  Django • Django REST Framework • FastAPI (exploring)
-Databases            →  PostgreSQL • Redis • (learning CockroachDB)
-Tools & Infra        →  Docker • Git • Linux • Nginx (basics)
-Async / Performance  →  Celery • asyncio • (Rust's async ecosystem)
-Architecture         →  Clean/DDD • Event-driven • CQRS (studying)
+  
+  Languages & Core     →  Python • Rust • SQL
+  Web & APIs           →  Django • Django REST Framework • FastAPI (exploring)
+  Databases            →  PostgreSQL • Redis 
+  Tools & Infra        →  Docker • Git • Linux • Nginx (basics)
+  Async / Performance  →  Celery • asyncio • (Rust's async ecosystem)
+  Architecture         →  Clean/DDD • Event-driven • CQRS (studying)
