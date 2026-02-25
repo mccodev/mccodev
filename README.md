@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!👋+I'm+Mang'era;A+backend+and+systems+engineer"; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!👋+I'm+Mang'era;A+backend+and+Data+engineer"; alt="Typing SVG" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <h2 align="center">🚀 Backend Engineer</h2>
 
 <p align="center">
-  <em>A recent graduate</em> • Passionate about building <strong>secure and scalable systems</strong>, <strong>with clean architecture</strong>, and <strong>understanding how things work</strong>from the first principles.
+  <em>A recent graduate</em> • Passionate about building <strong>secure and scalable applications and data pipelines</strong>, <strong>with clean architecture</strong>, and <strong>understanding how things work</strong>from the first principles.
 </p>
 
 <div align="center">
