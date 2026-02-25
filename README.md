@@ -5,10 +5,10 @@
 
 <br/>
 
-<h2 align="center">🚀 Backend Engineer</h2>
+<h2 align="center">🚀 Backend and Data Engineer </h2>
 
 <p align="center">
-  <em>A recent graduate</em> • Passionate about building <strong>secure and scalable applications and data pipelines</strong>, <strong>with clean architecture</strong>, and <strong>understanding how things work</strong>from the first principles.
+  Passionate about building <strong>secure and scalable applications and data pipelines</strong>, <strong>with clean architecture</strong>, and <strong>understanding how things work</strong>from the first principles.
 </p>
 
 <div align="center">
