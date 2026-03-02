@@ -50,12 +50,5 @@ I focus on strong data foundations: correctness, performance, and system reliabi
 - **Financial Data Engineering** — Sourav Ghosh  
 - **Data Engineering Design Patterns** — Bartosz Konieczny  
 
----
-
-## 🎯 Career Goal
-
-To grow into a responsible data engineer who builds **resilient, secure, and scalable data pipelines and systems**.
-
----
 
 <h3 align="center">Engineering reliable data systems</h3>
