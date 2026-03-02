@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hello,👋+I'm+Mang'era.;A+Data+Engineer,;focused+on+building🔧;scalable+and+secure+data+pipelines+and+systems" alt="Typing SVG" />
 </div>
 
-<h2 align="center">🔧 Data Engineer 💻</h2>
+<h2 align="center"> Data Engineer </h2>
 
 <p align="center">
 I’m an early-career data engineer focused on building <strong>secure, reliable, and scalable data pipelines</strong> and <strong>systems</strong>.
@@ -11,7 +11,7 @@ I focus on strong data foundations: correctness, performance, and system reliabi
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Design and maintain **scalable ETL/ELT pipelines** using Python & SQL, ensuring high data quality and reliability  
 - Optimize and tune **PostgreSQL queries** for performance at scale, including indexing, partitioning, and analytics workloads  
@@ -21,7 +21,7 @@ I focus on strong data foundations: correctness, performance, and system reliabi
 
 ---
 
-## 🛠️ Tech Stack
+## My Tech Stack
 **Languages:** Python • SQL • Rust (learning)
 
 **Data Processing & Orchestration:** Apache Spark • Apache Airflow • dbt • Kafka • Flink
@@ -42,7 +42,7 @@ I focus on strong data foundations: correctness, performance, and system reliabi
 
 ---
 
-## 📚 Books I am reading (Recommend)
+## Books I am reading (Recommend)
 
 - **Fundamentals of Data Engineering** — Joe Reis and Matt Housley  
 - **Designing Data-Intensive Applications** — Martin Kleppmann  
