@@ -5,7 +5,7 @@
 <h2 align="center"> Data Engineer </h2>
 
 <p align="center">
-I’m an early-career data engineer focused on building <strong>secure, reliable, and scalable data pipelines</strong> and <strong>systems</strong>.
+I am a data engineer focused on building <strong>secure, reliable, and scalable data pipelines</strong> and <strong>systems</strong>.
 I focus on strong data foundations: correctness, performance, and system reliability.
 </p>
 
