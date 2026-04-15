@@ -5,7 +5,7 @@
 <h2 align="center"> Data Engineer </h2>
 
 <p align="center">
-**Software Engineer** focused on **data** and **backend engineering**.
+<strong>Software Engineer</strong> focused on <strong>Data</strong> and <strong>Backend Engineering</strong>.
 I help build scalable end-to-end data pipelines and systems, prioritizing simplicity, performance, and reliability in fast-moving environments.
 </p>
 
