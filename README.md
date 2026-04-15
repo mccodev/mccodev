@@ -5,8 +5,8 @@
 <h2 align="center"> Data Engineer </h2>
 
 <p align="center">
-I am a data engineer focused on building <strong>secure, reliable, and scalable data pipelines</strong> and <strong>systems</strong>.
-I focus on strong data foundations: correctness, performance, and system reliability.
+**Software Engineer** focused on **data** and **backend engineering**.
+I help build scalable end-to-end data pipelines and systems, prioritizing simplicity, performance, and reliability in fast-moving environments.
 </p>
 
 ---
@@ -22,13 +22,13 @@ I focus on strong data foundations: correctness, performance, and system reliabi
 ---
 
 ## My Tech Stack
-**Languages:** Python • SQL • Rust (learning)
+**Languages:** Python • SQL 
 
 **Data Processing & Orchestration:** Apache Spark • Apache Airflow • dbt • Kafka • Flink
 
 **Data Warehousing & Storage:** Snowflake • BigQuery • Redshift • PostgreSQL • S3 • Delta Lake
 
-**Streaming & Messaging:** Kafka • Kafka Connect • Debezium
+**Streaming & Messaging:** Kafka • Kafka Connect 
 
 **Architecture & Infrastructure:** Docker • Kubernetes • Terraform • Linux • Git • CI/CD (GitHub Actions)
 
@@ -42,13 +42,14 @@ I focus on strong data foundations: correctness, performance, and system reliabi
 
 ---
 
-## Books I am reading (Recommend)
+## Books refferences
 
 - **Fundamentals of Data Engineering** — Joe Reis and Matt Housley  
 - **Designing Data-Intensive Applications** — Martin Kleppmann  
 - **The Data Warehouse Toolkit** — Ralph Kimball and Margy Ross  
 - **Financial Data Engineering** — Sourav Ghosh  
-- **Data Engineering Design Patterns** — Bartosz Konieczny  
+- **Data Engineering Design Patterns** — Bartosz Konieczny
+- **Database Internals** —  Alex Petrov
 
 
 <h3 align="center">Engineering reliable data systems</h3>
