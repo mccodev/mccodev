@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hello,👋+I'm+Mang'era.;A+Data+Engineer,;focused+on+building🔧;scalable+and+secure+data+pipelines+and+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hello,👋+I'm+Mang'era.;A+Data+and+Backend+Engineer,;focused+on+building🔧;scalable+and+secure+data+pipelines+and+systems" alt="Typing SVG" />
 </div>
 
-<h2 align="center"> Data Engineer </h2>
+<h2 align="center"> Data & Backend Engineer </h2>
 
 <p align="center">
 <strong>Software Engineer</strong> focused on <strong>Data</strong> and <strong>Backend Engineering</strong>.
